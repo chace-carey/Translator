@@ -30,7 +30,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(245, 166, 35, 1)"
+            "backgroundColor": "rgba(245, 164, 32, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -45,7 +45,7 @@
         "ResponsiveWidth": 375,
         "isSimple": true,
         "Scrollable": true,
-        "BackgroundColor": "rgba(245, 166, 35, 1)",
+        "BackgroundColor": "rgba(245, 164, 32, 1)",
         "BackgroundPicture": "images.jpeg",
         "BackgroundPictureResizeMode": "repeat",
         "resizeMode": "repeat"
